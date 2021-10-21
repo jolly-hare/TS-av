@@ -9,6 +9,10 @@ get account value from weighted-averaging a few diff webscraped sites with estim
  * add new weight to 'weights'
  * create new per site parsing logic
 
+## contact me
+NBATopshot @jolly_hare2634
+Twitter @ts_hare
+
 # Expected Output
 
 
