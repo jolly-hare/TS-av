@@ -3,14 +3,16 @@
 get account value from weighted-averaging a few diff webscraped sites with estimated values
 
 ### for adding new accounts:
- * add new accounts to .env file as "Nickname=topshot_accountname"
+ * add new accounts to .env file as "Nickname=topshot_accountname" on a new row
 ### for new estimated value sites:
  * add new value estimatation endpoint in 'url'
  * add new weight to 'weights'
  * create new per site parsing logic
 
-## contact me
+# contact me
+
 NBATopshot @jolly_hare2634
+
 Twitter @ts_hare
 
 # Expected Output
